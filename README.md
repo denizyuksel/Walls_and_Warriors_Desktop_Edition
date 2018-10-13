@@ -5,11 +5,11 @@
 1A
 	
 # Group Members
-Deniz Yüksel
-Dawood Muzammil Malik
-Mert Soydinç	
-Faruk Oruç	
-Salih Altun
+	Deniz Yüksel
+	Dawood Muzammil Malik
+	Mert Soydinç	
+	Faruk Oruç	
+	Salih Altun
 	
 # Project Topic
 Walls & Warriors
