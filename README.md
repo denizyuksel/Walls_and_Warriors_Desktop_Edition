@@ -1,13 +1,25 @@
-# CS319_1A_Walls_and_Warriors
-This is Walls and Warriors by CS 319 Section 1 Group A, 404 Name Not Found.
+# Project Name: 
+	404 Name Not Found
+	
+# Group number: 
+	1A
+	
+# Group Members
+	Deniz Yüksel
+	Dawood Muzammil Malik
+	Mert Soydinç	
+	Faruk Oruç	
+	Salih Altun
+	
+# Project Topic
+	Walls & Warriors
 
-## Brief Game Description
-The war is upon you. The enemies are closing in and your castle is in danger. As the King, do you have what it takes to protect your castle and your people?
-
-Drag and drop the angled castle wall pieces and start arranging them between the warriors so that all the blue knights are inside the enclosure and all the red knights are on the outside.
-
-But beware, there's only one solution for each challenge! Only true problem-solving wizards will have what it takes to save the day.
-
-Bust your brain while inspiring your imagination with the adventurous Walls and Warriors game, ideal for children aged 8 right up to adult.
-
-Walls and Warriors is a board game that rewards planning and problem solving skills. Player faces the challenge of securing their soldiers and towers from the enemy with increasing difficulty as they complete the levels. There are two sides, red and blue, which have four and three soldiers respectively. Blue side also has a tower. The objective of each level is to secure blue soldiers and tower from the red invaders by placing walls on the board. There is only one solution to each challenge. The faster a player can solve a challenge, the more points they acquire, and may achieve a score worthy of display on the leaderboards! Players can also make their own levels - and even be able to change the fundamentals of the game like the board size or number of soldiers.
+# Project Description
+	Walls & Warriors: The principle of this game place the four walls on the game board so that all the blue knights are inside the enclosure and all the red knights are on the outside. But instead of defending an ancient city, you now have to defend a castle. The knights are more detailed and more stable, the walls are bigger and easier to handle, and with 80 challenges instead of the former 60, there was space to add a few easier challenges that include hints. However, there is always only one correct solution, which can be found at the back of the challenge booklet. For ages 8 to adult.
+	
+# Initial Requirements
+	The objective of this project is to implement Walls & Warriors (a board game) as a desktop game. 
+	We plan on using a drag & drop feature to drop the four walls on the player's desired location on the designed board. Scores will be calculated on the basis of the time it took for the player to complete the challenge and number of failed attempts the player made. The highest scores will be stored along with the player's name. 
+	
+# How is our game different
+	To make the game more interesting and competitive, we plan on introducing a sandbox feature which would allow players to increase the difficulty of the levels. For more difficult levels, the size of the board will get bigger with more knights and more complicated solutions. In contrast to the original game, our game will have a time limit and failed attempts counter which would make the game more competitive. 
