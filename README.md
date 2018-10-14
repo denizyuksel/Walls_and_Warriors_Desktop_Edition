@@ -21,5 +21,5 @@ Walls & Warriors: The principle of this game place the four walls on the game bo
 The objective of this project is to implement Walls & Warriors (a board game) as a desktop game. 
 We plan on using a drag & drop feature to drop the four walls on the player's desired location on the designed board. Scores will be calculated on the basis of the time it took for the player to complete the challenge and number of failed attempts the player made. The highest scores will be stored along with the player's name. 
 	
-# How is our game different
+# How our game is different
 To make the game more interesting and competitive, we plan on introducing a sandbox feature which would allow players to increase the difficulty of the levels. For more difficult levels, the size of the board will get bigger with more knights and more complicated solutions. In contrast to the original game, our game will have a time limit and failed attempts counter which would make the game more competitive. 
