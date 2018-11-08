@@ -77,5 +77,28 @@ Deciding the date of finalizing the design report: 06.11.2018
 
 [Deniz] Writing Introduction and doing Subsystems part. Help Faruk & Salih with low level design.
 
+## Meeting on 08.11.2018
 
+### Participants: Deniz, Dawood, Salih, Faruk, Mert
+
+### Location: B building basement lab
+
+### Agenda
+
+Discussion about workshare of the implementation is made.
+
+Over the class diagram we have drawn in the design report, we decided that we will follow our diagram in the implementation.
+
+For the 1st iteration of the final report, we decided to implement only one working game.
+
+### Action Items
+[Faruk] GameController and its components. 
+
+[Mert] GameEngine and its components.
+
+[Salih] The GUI of the application.
+
+[Dawood] The basic implementation of the database.
+
+[Deniz] Implementing the entity classes. Later on, either helping Mert or Salih.
 .
