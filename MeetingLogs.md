@@ -101,4 +101,39 @@ For the 1st iteration of the final report, we decided to implement only one work
 [Dawood] The basic implementation of the database.
 
 [Deniz] Implementing the entity classes. Later on, either helping Mert or Salih.
+
+## Meeting on 19.11.2018, 11:15
+
+### Participants: Deniz, Dawood, Salih, Faruk, Mert
+
+### Location: B building Mozzart Cafe
+
+### Agenda
+
+Discussion about the disastrous demo.
+
+Discussion about the new working paradigm.
+
+New work division is decided.
+
+Deciding the date of finalizing the iteration 2 for analysis report: 25.11.2018.
+
+### Action Items
+[Faruk & Mert & Deniz] Implementing brand new GUI with java.swing. Afterwards, testing the code we have written and creating
+
+the core game.
+
+[Salih & Dawood & Deniz] Redrawing the diagrams & writing the analysis report with the received feedback.
+
+[Dawood] Manager for all second iteration reports & final presentation.
+
+[Deniz] Project manager: Makes appointments, distribues the work. Writes the logs, gives deadlines. Operates with Google
+
+Calendar. Meets with TA or Eray Tüzün when necessary. Communicates with Dawood, checks and confirms reports & presentations. 
+
+Does the risk communication. Everything is reported direcly to Deniz.
+
+
+
+
 .
