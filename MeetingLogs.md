@@ -152,11 +152,6 @@ the core game.
 
 Calendar. Meets with TA or Eray Tüzün when necessary. Communicates with Dawood, checks and confirms reports & presentations. 
 
-Does the risk communication. Every communication will be seen by Deniz in relevant Whatsapp groups. Communication between 
+Does the risk communication. Every communication will be seen by Deniz in relevant Whatsapp groups. Communication problems 
 
-people will be solved by Deniz. Deniz will take all the responsibility for failures in the final demo.
-
-
-
-
-.
+between people will be solved by Deniz. Deniz will take all the responsibility for failures in the final demo.
