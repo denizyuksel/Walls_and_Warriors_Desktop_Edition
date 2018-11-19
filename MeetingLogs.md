@@ -102,6 +102,27 @@ For the 1st iteration of the final report, we decided to implement only one work
 
 [Deniz] Implementing the entity classes. Later on, either helping Mert or Salih.
 
+
+## Meeting on 18.11.2018, 20.15
+
+### Participants: Deniz, Dawood, Salih, Faruk, Mert
+
+### Location: Discord Server
+
+### Agenda
+Discussion about the demo for tomorrow. Discussion about the lessons we learned and the debate about the new workshare.
+
+From now on, we will switch from Peer to Peer communication to hierarchical communication. 
+
+### Action Items
+
+Very raw & brief description (because we are not mentally healthy now):
+
+[Faruk & Mert & Deniz] Implementation.
+
+[Dawood & Salih & Deniz] Reports, diagrams.
+
+
 ## Meeting on 19.11.2018, 11:15
 
 ### Participants: Deniz, Dawood, Salih, Faruk, Mert
